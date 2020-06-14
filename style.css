@@ -1,0 +1,138 @@
+#heading {
+  font-weight: bold;
+  border: 1px solid #66FCF1;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 80px;
+  padding: 20px;
+  color: #66FCF1;
+
+}
+
+.display-1 {
+  color: #C5C6C7;
+}
+
+#sub-heading {
+  font-weight: bold;
+  color: #66FCF1;
+}
+
+#measure-label {
+  margin-top: 50px;
+}
+
+#instructions-col {
+  text-align: center;
+  padding-top: 100px;
+}
+
+#title-div {
+  text-align: center;
+}
+
+#measure-wrapper {
+  margin-top: 10px;
+
+
+}
+
+#radio-metric {
+
+}
+
+#measurements-input-wrapper {
+  margin-top: 50px;
+}
+
+#measurement-inputs-imperial {
+  display: none;
+}
+
+#calculate-button {
+  margin-top:30px;
+}
+
+#result-div {
+  text-align: center;
+  display: none;
+  padding-top: 125px;
+}
+
+#calorie-cut-checkboxes {
+  text-align: center;
+  border: 1px solid #66FCF1;
+  padding-bottom: 10px;
+}
+
+#chart-div {
+  display:none;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif !important;
+  background-color: #1F2833 !important;
+  color: #45A29E !important;
+}
+
+hr {
+  background-color: #66FCF1 !important;
+}
+
+.results-row h3 {
+  color: #66FCF1;
+}
+
+.results-row {
+  padding-bottom: 125px;
+}
+
+.result-field {
+  color: white;
+}
+
+#chart-heading {
+  color: #66FCF1;
+}
+
+.chart-header-container {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.chart-control-exp {
+  text-align: center;
+}
+
+.chart-control-row {
+  margin-top: 60px;
+  align-items: center;
+}
+
+#calorie-cut-label {
+  color: #66FCF1;
+  font-size: 2em;
+}
+
+.footer {
+  text-align: center;
+  min-height: 100px;
+  display: none;
+  margin-top: 20px;
+}
+
+.footer-text {
+  padding-top: 20px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+/* the color scheme:
+
+#0B0C10
+#1F2833
+#C5C6C7
+#66FCF1
+#45A29E
